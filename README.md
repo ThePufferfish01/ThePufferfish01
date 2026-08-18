@@ -1,6 +1,6 @@
 # 🐡 Pufferfish - Fish Dev
 
-| About Me                 | Passion                | Technologies            | Projects                |
+| About Me                 | Passion                | Languages               | Projects                |
 | ------------------------ | ---------------------- | ----------------------- | ----------------------  |
 | 💻 Development           | 🐟 Code                | Lua / Luau              | 🎮 Roblox               |
 | 🐠 Programming           | 🐡 Systems             | Rust                    | 🧩 Frameworks           |
