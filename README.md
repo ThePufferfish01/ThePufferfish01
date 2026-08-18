@@ -1,16 +1,12 @@
-## Hi there 👋
+# 🐡 Pufferfish - Fish Dev
 
-<!--
-**ThePufferfish01/ThePufferfish01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| About Me                 | Passion                | Technologies            | Projects                |
+| ------------------------ | ---------------------- | ----------------------- | ----------------------  |
+| 💻 Development           | 🐟 Code                | Lua / Luau              | 🎮 Roblox               |
+| 🐠 Programming           | 🐡 Systems             | Rust                    | 🧩 Frameworks           |
+| 🎮 Game Development      | 🦈 Reverse Engineering | C / C++                 | 🔧 Developer Tools      |
+| 🧠 Creation              | 🐬 Game Dev            | JavaScript / TypeScript | 🖥️ Linux Tools          |
+| 🔬 Technical Exploration | 🐳 Linux               |                         | 🔬 Reverse Engineering  |
+|                          | ⚙️ Low-Level           |                         |                         |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `🐡: Embrace Fish`
