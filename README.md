@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/header.svg" width="100%" alt="Terminal Boot">
+<img src="https://raw.githubusercontent.com/ThePufferfish01/main/refs/heads/main/header.svg" width="100%" alt="Terminal Boot">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/about.svg" width="100%" alt="Terminal Cat">
+<img src="https://raw.githubusercontent.com/ThePufferfish01/main/refs/heads/main/about.svg" width="100%" alt="Terminal Cat">
 
 <br/>
 
