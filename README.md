@@ -1,12 +1,17 @@
-# 🐡 Pufferfish - Fish Dev
+<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/header.svg" width="100%" alt="Terminal Boot">
 
-| About Me                 | Passion                | Languages               | Projects                |
-| ------------------------ | ---------------------- | ----------------------- | ----------------------  |
-| 💻 Development           | 🐟 Code                | ☾ Lua / Luau            | 🎮 Roblox               |
-| 🐠 Programming           | 🐡 Systems             | 🦀 Rust                 | 🧩 Frameworks           |
-| 🎮 Game Development      | 🦈 Reverse Engineering | 🇨 C / C++              | 🔧 Developer Tools      |
-| 🧠 Creation              | 🐬 Game Dev            | </> JavaScript / TypeScript | 🖥️ Linux Tools          |
-| 🔬 Technical Exploration | 🐳 Linux               |                         | 🔬 Reverse Engineering  |
-|                          | ⚙️ Low-Level           |                         |                         |
+<br/>
 
-## `🐡: Embrace Fish`
+<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/about.svg" width="100%" alt="Terminal Cat">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/skills.svg" width="100%" alt="Terminal Skills">
+
+<br/>
+
+<img src="https://ryme.md/api/render/terminal-github-stats?u=ThePufferfish01&bg=0a0a0b&fg=e7e7ea&accent=4ade80&muted=5a5a64" width="100%" alt="Terminal GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/footer.svg" width="100%" alt="Terminal Logout">
