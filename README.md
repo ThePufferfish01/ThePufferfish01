@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/skills.svg" width="100%" alt="Terminal Skills">
+<img src="https://raw.githubusercontent.com/ThePufferfish01/main/refs/heads/main/skills.svg" width="100%" alt="Terminal Skills">
 
 <br/>
 
@@ -14,4 +14,4 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ThePufferfish01/ThePufferfish01/main/footer.svg" width="100%" alt="Terminal Logout">
+<img src="https://raw.githubusercontent.com/ThePufferfish01/main/refs/heads/main/footer.svg" width="100%" alt="Terminal Logout">
